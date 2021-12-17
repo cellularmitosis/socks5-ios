@@ -1,3 +1,9 @@
+## Forked
+
+Note: this repo is forked with the following changes:
+- `microsocks` is copied directly into the repo rather than using git submodules.
+- The status label is repositioned every few seconds, as a screen saver.
+
 ## SOCKS5 server for iOS
 
 This app implements a *very* simple SOCKS5 server for iOS. You can use it to increase your tethering speeds when they are artificially limited; other uses are possible.

@@ -299,10 +299,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WU7S2576LJ;
+				DEVELOPMENT_TEAM = CPE62329FB;
 				INFOPLIST_FILE = SOCKS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ca.robertxiao.SOCKS;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pepaslabs.socks5-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -313,10 +313,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = WU7S2576LJ;
+				DEVELOPMENT_TEAM = CPE62329FB;
 				INFOPLIST_FILE = SOCKS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ca.robertxiao.SOCKS;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.pepaslabs.socks5-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
